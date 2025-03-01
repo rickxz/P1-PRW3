@@ -4,6 +4,8 @@ import jakarta.persistence.EntityManager;
 import services.AlunoService;
 import utils.JPAUtil;
 
+// Integrantes: Herick Victor Rodrigues | SC3038904
+
 public class Main {
     public static void main(String[] args) {
         EntityManager em = JPAUtil.getEntityManager();
